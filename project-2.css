@@ -1,0 +1,106 @@
+body{
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to left, rgb(169, 169, 240) 60%,  #dbc3be 40%);
+}
+
+.lvl{
+    font-size: 90px;
+    color: rgb(0, 0, 0);
+    font-family:'fantasy', Impact, fantasy;
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+    position: relative;
+    bottom: -150px;
+}
+
+.lvl1 {
+    position: relative;
+    left: 900px;
+    top: -320px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.lvl2 {
+    position: relative;
+    left: 900px;
+    top: -270px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color:#332389;
+    color: aliceblue;
+}
+
+.lvl3 {
+    position: relative;
+    left: 900px;
+    top: -210px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: #2C1CD2;
+    color: aliceblue;
+}
+
+.lvl4 {
+    position: relative;
+    left: 900px;
+    top: -150px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: #5271FF;
+    color: aliceblue;
+}
+
+.dalshe1 {
+    position: relative;
+    left: 920px;
+    top: -20px;
+    width: 100%;
+    font-size: 45px;
+    border-radius: 2px;
+    background-color: #050505;
+    color: aliceblue;
+}
+
+
+.propysk {
+    position: relative;
+    right: -700px;
+    bottom: 750px;
+    width: 100%;
+    font-size: 30px;
+    color: aliceblue;
+
+}
+
+.nachalo  {
+    position: relative;
+    left: 50px;
+    bottom: 800px;
+    width: 250px;
+    height: 45px;
+    color: #000000;
+}
+
+.emblema {
+    color: rgb(230, 3, 3);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    font-size: 30px;
+    top: -100px ;
+    width: 300x;
+    height: 50px;
+}
+
+
+a{
+    color: aliceblue;
+}
